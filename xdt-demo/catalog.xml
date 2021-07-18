@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <includes>
+        <include filename="catalog.specific.xml" priority="0"/>
+    </includes>
+    <persons>
+        <person key="p1">
+            <name key="n1"/>
+            <surname key="s1"/>
+            <age key="a1"/>
+        </person>
+        <person key="p2">
+            <name key="n2"/>
+            <surname key="s2"/>
+            <age key="a2"/>
+        </person>
+    </persons>
+</catalog>

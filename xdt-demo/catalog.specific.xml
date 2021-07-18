@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+    <includes>
+        <include filename="catalog.specific.evenmore.xml" priority="0"/>
+    </includes>
+    <persons>
+        <person key="p3" xdt:Transform="Insert">
+            <name key="n3"/>
+            <surname key="s3"/>
+            <age key="a3"/>
+        </person>
+    </persons> 
+</catalog>
